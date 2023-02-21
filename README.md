@@ -1,11 +1,8 @@
 # SoundKit
-Swift framework to play sounds and haptics in a scalable and simplified way.
-
-![Sound (819 × 375 px)-2](https://user-images.githubusercontent.com/59176579/220217148-083fa043-650b-4c2a-bd1f-99e66ddfc636.png)
-
-# SoundKit
 
 SoundKit is a lightweight and easy-to-use Swift package for playing sounds and haptics in your iOS app.
+
+![Sound (819 × 375 px)-2](https://user-images.githubusercontent.com/59176579/220217148-083fa043-650b-4c2a-bd1f-99e66ddfc636.png)
 
 ## Installation
 
