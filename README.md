@@ -10,7 +10,7 @@ You can install SoundKit using Swift Package Manager. Simply add the following l
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/your-username/SoundKit.git", from: "1.0.0")
+    .package(url: "https://github.com/lucaswkuipers/SoundKit.git", from: "1.0.0")
 ]
 ```
 
