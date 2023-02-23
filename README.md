@@ -83,4 +83,4 @@ SoundKit is available under the MIT license. See the [LICENSE](LICENSE) file for
 
 ## Swift Package Index
 
-Checkout on Swift Package Index: https://swiftpackageindex.com/lucaswkuipers/SoundKit
+Check out on Swift Package Index: https://swiftpackageindex.com/lucaswkuipers/SoundKit
