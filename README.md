@@ -79,3 +79,8 @@ struct MyHaptic: Haptic {
 ## License
 
 SoundKit is available under the MIT license. See the [LICENSE](LICENSE) file for more information.
+
+
+## Swift Package Index
+
+Checkout on Swift Package Index: https://swiftpackageindex.com/lucaswkuipers/SoundKit
